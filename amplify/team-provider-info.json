@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-s3uploader-dev-cbe21-authRole",
+      "UnauthRoleArn": "arn:aws:iam::597609335369:role/amplify-s3uploader-dev-cbe21-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::597609335369:role/amplify-s3uploader-dev-cbe21-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-s3uploader-dev-cbe21-deployment",
+      "UnauthRoleName": "amplify-s3uploader-dev-cbe21-unauthRole",
+      "StackName": "amplify-s3uploader-dev-cbe21",
+      "StackId": "arn:aws:cloudformation:us-east-1:597609335369:stack/amplify-s3uploader-dev-cbe21/1bf0bcf0-540b-11ef-a1dc-0eb45e5c7d2d",
+      "AmplifyAppId": "dgo7ekp1oo7h4"
+    },
+    "categories": {
+      "auth": {
+        "s3uploaderb78af138": {}
+      },
+      "storage": {
+        "s3UpDestination": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
